@@ -79,16 +79,7 @@ Ensure you have Python installed with the following libraries:
 - `matplotlib`
 - `scikit-learn`
 
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/prantikm07/Housing-Affordability-Prediction-based-on-socio-economic-factors.git
-   cd your-repo-name
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 
 ## Results
@@ -99,8 +90,3 @@ Ensure you have Python installed with the following libraries:
   - R² Score:  (to be updated after last run)
 
 
-## Contact
-
-If you have any questions, feel free to contact me via:
-- Email: [prantik25m@gmail.com](mailto:prantik25m@gmail.com)
-- LinkedIn: [Prantik Mukhopadhyay](https://www.linkedin.com/in/prantikm07/)
